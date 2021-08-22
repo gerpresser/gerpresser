@@ -1,13 +1,12 @@
 <div align="center">
    <h1>Hi, my name is <a href="https://www.linkedin.com/in/gerhard-p/">Gerhard</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-  <h5>Proudly Software Engineer at Zé Delivery</h5>
+  <h4>Proudly Software Engineer at Zé Delivery</h4>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/gerpresser">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gerpresser&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerpresser&layout=compact&langs_count=4&theme=react"/>
 </div>
