@@ -28,5 +28,5 @@
 ##
 
 <div align="center">
-   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal">
+   <img height="160em" src="https://quotes-github-readme.vercel.app/api?type=horizontal">
 </div>
