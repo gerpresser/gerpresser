@@ -25,7 +25,7 @@
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-<br>
+##
 
 <div align="center">
    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal">
