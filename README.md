@@ -28,5 +28,5 @@
 ##
 
 <div align="center">
-   <img height="160em" src="https://quotes-github-readme.vercel.app/api?type=horizontal">
+   <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
 </div>
