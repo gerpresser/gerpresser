@@ -1,6 +1,6 @@
 <div align="center">
    <h1>Hi, my name is <a href="https://www.linkedin.com/in/gerhard-p/">Gerhard</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-
+   
   <h4>Proudly Software Engineer at Zé Delivery</h4>
 </div>
 
@@ -23,4 +23,10 @@
   <img align="center" alt="RTL" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white">
   <img align="center" alt="Travis" src="https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white">
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
+<br>
+
+<div align="center">
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal">
 </div>
