@@ -1,7 +1,7 @@
 <div align="center">
    <h1>
       Hi, my name is <a href="https://www.linkedin.com/in/gerhard-p/">Gerhard</a>
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" heigth="25px" width="25px">
+      <img height="30px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
    </h1>
    <h4>Proudly Software Engineer at Zé Delivery</h4>
 </div>
