@@ -3,11 +3,11 @@
       Hi, my name is <a href="https://www.linkedin.com/in/gerhard-p/">Gerhard</a>
       <img height="30px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
    </h1>
-   <h4>Proudly Software Engineer at Zé Delivery</h4>
+   <h4>Software Engineer at Zé Delivery</h4>
 
    <br>
 
-   <a href="https://github.com/gerpresser">
+<!--    <a href="https://github.com/gerpresser">
       <img height="160em"
          src="https://github-readme-stats.vercel.app/api?username=gerpresser&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
       <img height="160em"
@@ -25,5 +25,5 @@
 
    ##
 
-   <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
+   <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" /> -->
 </div>
