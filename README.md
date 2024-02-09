@@ -36,4 +36,4 @@ const gerhard = {
 <br><hr>
 **The most random gif you'll see today**
 
-<img src="https://media.giphy.com/media/l3V0x6kdXUW9M4ONq/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/l3V0x6kdXUW9M4ONq/giphy.gif" width="200">
