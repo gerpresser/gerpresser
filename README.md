@@ -15,8 +15,9 @@
 
 ```javascript
 const gerhard = {
-    code: ["javascript", "java", "swift"],
     askMeAbout: ["tech", "app dev", "games", "music"],
+    currentFocus: "Focused on front-end development, specially mobile apps",
+    code: ["javascript", "java", "swift"],
     technologies: {
         backEnd: {
             js: ["node", "express"]
