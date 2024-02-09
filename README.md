@@ -16,7 +16,7 @@
 ```javascript
 const gerhard = {
     askMeAbout: ["tech", "app dev", "games", "music"],
-    currentFocus: "Front-end development, specially mobile apps",
+    currentFocus: "front-end development, specially mobile apps",
     code: ["javascript", "java", "swift"],
     technologies: {
         backEnd: {
