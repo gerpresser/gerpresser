@@ -29,7 +29,7 @@ const gerhard = {
         testing: ["jest", "react testing library"],
         cicd: ["github actions", "travis ci"],
         database: ["postgresql", "mysql", "microsoft sql server"],
-        misc: ["firebase", "sentry", "crashlytics", "graphql"]
+        misc: ["typescript", "firebase", "sentry", "crashlytics", "graphql"]
     },
 };
 ```
